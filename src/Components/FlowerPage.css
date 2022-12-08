@@ -1,0 +1,40 @@
+.flower-row {
+    /* display: flex; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+    background: #baac90;
+    border-radius: 18px;
+  }
+  
+  #flower-image {
+    margin-top: 6.5%;
+    /* padding-bottom: 5%; */
+    margin-left: 10%;
+    border-style: groove;
+    width: 14%;
+    border-width: 10px;
+    border:black;
+    position: absolute;
+  }
+  
+  #book-body {
+    font-size: 25px;
+  }
+  #book-body h2 {
+    color: black;
+    margin-left: 40%;
+    font-size: 35px;
+    margin-top: 15%;
+    font-family: poppins;
+  }
+  #book-body p {
+    margin-left: 40%;
+    font-size: 28px;
+    width: 40%;
+    color: whitesmoke;
+    margin-bottom: 5%;
+    font-family: poppins;
+    font-weight: 500;
+  }
+  

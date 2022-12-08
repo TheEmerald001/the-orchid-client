@@ -1,0 +1,1 @@
+web: npm install && npm start -b 0.0.0.0 -p ${PORT: -4000}

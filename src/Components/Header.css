@@ -1,0 +1,80 @@
+header {
+    position: absolute;
+    width: 100%;
+    background:  #baac90;
+}
+.header-div {
+width: 90%;
+height: 100px;
+background: #746b5b;
+margin-left: 5.5%;
+}
+#home {
+position: absolute;
+width: 94px;
+height: 37px;
+margin-left: 158px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+#collection {
+position: absolute;
+width: 222px;
+height: 37px;
+margin-left: 291px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+#reviews {
+position: absolute;
+width: 160px;
+height: 37px;
+margin-left: 552px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+
+.header-login {
+position: absolute;
+width: 122px;
+height: 37px;
+margin-top: 30px;
+Margin-left: 70%;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+color: #FFFFFF;
+background: #C98B12;
+border-radius: 15px;
+border-style: none;
+}
+.header-sign {
+position: absolute;
+width: 122px;
+height: 37px;
+margin-top: 30px;
+Margin-left: 80%;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 37px;
+color: #FFFFFF;
+background: #C98B12;
+border-radius: 15px;
+border-style: none;
+}

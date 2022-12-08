@@ -1,0 +1,108 @@
+.review-container {
+    padding: 20px 40px;
+    width: 95%;
+    border-radius: 12px;
+    background-color:#baac90 ;
+    margin: 0 auto;
+    margin-bottom: 50px;
+  }
+  .review-container > h3 {
+    margin-left: 60px;
+    font-size: 30px;
+  }
+  
+  .review-btn {
+    float: right;
+    clear: both;
+    padding: 10px 30px;
+    border-radius: 15px;
+    border: 0;
+    outline: 0;
+    background-color: #c98b18;
+    font-size: 20px;
+    font-weight: 700;
+    position: relative;
+    bottom: 35px;
+    margin-right: 220px;
+  }
+  .review-card {
+    width: 80%;
+    background-color: #746b5c;
+    border-radius: 20px;
+    padding: 15px 30px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-left: 50px;
+  }
+  .review-card > p {
+    font-weight: 300;
+    padding: 10px 0;
+    color: whitesmoke;
+  }
+  
+  .reviewer-info {
+    display: flex;
+    align-items: center;
+    width: 30%;
+    margin-bottom: 30px;
+  }
+  
+  .reviewer-info > img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: block;
+    margin-left: 10px;
+  }
+  
+  #review-form {
+    padding: 15px 25px;
+    background-color: #baac90 ;
+    width: 50%;
+    border-radius: 15px;
+    color: black;
+    font-size: 18px;
+  }
+  #review-form > input,
+  .text-area {
+    padding: 10px 30px;
+    width: 50%;
+    border: 0;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+    margin-bottom: 5%;
+  }
+  
+  .action-btns {
+    /* display: flex; */
+    justify-content: space-between;
+    width: 70%;
+    float: none;
+    margin-top: 20px;
+  }
+  .action-btns > button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: black;
+    margin-bottom: 3px;
+    background-color: #c98b18;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  
+  .popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 80vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .review-info {
+    display: flex;
+    justify-content: space-between;
+  }

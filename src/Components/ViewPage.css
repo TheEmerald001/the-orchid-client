@@ -1,0 +1,145 @@
+.about-orchid {
+margin-top: 4%;
+position: absolute;
+width: 100%;
+height: 90%;
+background: #BAAC90;
+
+}
+.about-info {
+position: absolute;
+width: 90%;
+height: 80%;
+margin-left: 5.5%;
+background: rgba(98, 91, 78, 0.8);
+}
+#img1{
+position: absolute;
+width: 15%;
+height: 500px;
+margin-left: 80%;
+margin-top: 5%;
+}
+#img2{
+position: absolute;
+width: 15%;
+height: 500px;
+margin-left: 60%;
+margin-top: 12.5%;
+}
+#h1{
+    position: absolute;
+    width: 390px;
+    height: 111px;
+    margin-left: 35%;
+    margin-top: 4%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 30px;
+    color: whitesmoke;
+}
+#h1 span {
+    color: #C98B12;
+}
+
+.learn{
+position: absolute;
+width: 450px;
+height: 224px;
+margin-left: 15%;
+margin-top: 360px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 45px;
+color: whitesmoke;
+}
+.view-all {
+position: absolute;
+width: 140px;
+height: 40px;
+margin-left: 360px;
+margin-top: 570px;
+background: #C98B12;
+border-radius: 30px;
+font-size: 16px;
+font-weight: 600;
+color: black;
+border-style: none;
+}
+.fun_fact {
+position: absolute;
+width: 100%;
+height: 70%;
+margin-top: 720px;
+background: #B8AA8E;
+}
+.funfact{
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    margin-left: 5.5%;
+    background: rgba(98, 91, 78, 0.8);  
+}
+.funfact h1 {
+position: absolute;
+width: 318px;
+height: 73px;
+margin-left: 50%;
+margin-top: 43px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 73px;
+color: #C98B12;
+}
+.funfact img {
+position: absolute;
+width: 335px;
+height: 538px;
+margin-left: 164px;
+margin-top: 63px;
+}
+.p1 {
+position: absolute;
+width: 656px;
+height: 124px;
+margin-left: 813px;
+margin-top: 125px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+color: whitesmoke;
+}
+.p2{
+position: absolute;
+width: 656px;
+height: 124px;
+margin-left: 813px;
+margin-top: 300px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+color: whitesmoke;
+}
+.p3{
+position: absolute;
+width: 656px;
+height: 124px;
+margin-left: 813px;
+margin-top: 450px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+color: whitesmoke;
+}

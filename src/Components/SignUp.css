@@ -1,0 +1,68 @@
+.signup-div {
+position: absolute;
+width: 100%;
+height: 1400px;
+margin-top: 100px;
+background: #BAAC90;
+}
+.signup-form {
+position: absolute;
+width: 90%;
+height: 1400px;
+margin-left: 100px;
+background: #625B4E;
+}
+.css {
+    margin-left: 34%;
+}
+.css label {
+position: absolute;
+width: 276px;
+height: 68px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 45px;
+color: whitesmoke;
+margin-top: 5.0%;
+}
+.css input, textarea {
+margin-top: 11%;
+width: 579px;
+height: 60px;
+background: #D9D9D9;
+font-size: 15px;
+padding-left: 1%;
+}
+.css textarea {
+    margin-top: 13%;
+    height: 100px;
+    margin-bottom: 2%;
+    padding-top: 1%;
+}
+#signup-btn {
+position: absolute;
+width: 130px;
+height: 50px;
+background: #D9D9D9;
+border-radius: 10px;
+font-size: 20px;
+margin-top: 1%;
+}
+#link {
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.signup-form h1 {
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 2%;
+    color: whitesmoke;
+}
+.signup-form h1 span {
+    color: #c98b18;
+}
